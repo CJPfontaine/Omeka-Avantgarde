@@ -20,7 +20,7 @@ body {
   font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 18px;
   color: #333;
-  background: #fff;
+  background: #rgba(0,0,0,.35);
 }
 
 form, fieldset {
@@ -224,7 +224,7 @@ header:after {
   color: #015581;
   font-size: 36px;
   line-height: 36px;
-  text-transform: uppercase;
+  text-transform: none;
 
   position: relative;
 }
@@ -1492,7 +1492,7 @@ footer nav + p {
 }
 .exhibit-page-nav a:link, .exhibit-page-nav a:visited {
   padding: 0.75em 10px;
-  background: #0176b4;
+  background: rgba(0,0,0,.35);
   text-decoration: none;
 }
 
