@@ -20,7 +20,7 @@ body {
   font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 18px;
   color: #333;
-  background: #rgba(0,0,0,.35);
+  background: #90a6cc;
 }
 
 form, fieldset {
@@ -518,7 +518,7 @@ header:after {
 #content {
   overflow: hidden;
   border: 1px solid #ccc;
-  background: #fff;
+  background: #d3e1f9;
   position: relative;
   margin: 0 auto;
   padding: 0;
@@ -1728,7 +1728,7 @@ h1, h2, h3
 }
 a:link, a:visited
 {
-	color: #009acc;
+	color: #3257e4;
 	text-decoration: none;
 }
 a:hover
@@ -1979,7 +1979,7 @@ h2
 }
 #content:before
 {
-	background: #1b1a1a;
+	background: #3277db;
 	content: ' ';
 	height: 5px;
 	left: -2000px;
