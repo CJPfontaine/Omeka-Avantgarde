@@ -1492,7 +1492,7 @@ footer nav + p {
 }
 .exhibit-page-nav a:link, .exhibit-page-nav a:visited {
   padding: 0.75em 10px;
-  background: rgba(0,0,0,.35);
+  background: rgb(211, 225, 249);
   text-decoration: none;
 }
 
