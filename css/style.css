@@ -1839,7 +1839,7 @@ h2
 }
 footer
 {
-	background: #1b1a1a;
+	background: rgba(15, 49, 99, 0.84);
 	height: 100px;
 	margin-top: 0;
 	width: 100%;
