@@ -17,10 +17,15 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 
 body {
-  font: 18px "Times New Roman", Helvetica, Arial, sans-serif;
+  font: 18px "Georgia", Helvetica, Arial, sans-serif, bold;
   line-height: 18px;
-  color: #333;
-  background: #d2cdcd;
+  color: #000;
+  background-color: #bbbbbb;
+  background-image: url("http://liblamp.uwm.edu/omeka/B/files/original/300a39288b852eecf93abce03112a3ca.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 200px;
+  background-attachment: fixed;
 }
 
 form, fieldset {
@@ -224,7 +229,7 @@ header:after {
   color: #015581;
   font-size: 36px;
   line-height: 36px;
-  text-transform: uppercase;
+  text-transform: none;
 
   position: relative;
 }
@@ -518,7 +523,7 @@ header:after {
 #content {
   overflow: hidden;
   border: 1px solid #ccc;
-  background: #dedede;
+  background: rgba(220, 220, 220, 0.71);
   position: relative;
   margin: 0 auto;
   padding: 0;
@@ -1470,7 +1475,7 @@ footer nav + p {
 }
 
 .exhibits.show #exhibit-pages a {
-  color: #fff;
+  color: #121111;
 }
 .exhibits.show #exhibit-pages ul {
   padding-left: 0;
@@ -1492,7 +1497,7 @@ footer nav + p {
 }
 .exhibit-page-nav a:link, .exhibit-page-nav a:visited {
   padding: 0.75em 10px;
-  background: #0176b4;
+  background: rgba(230, 230, 230, 0);
   text-decoration: none;
 }
 
@@ -1508,7 +1513,7 @@ footer nav + p {
 .exhibit-page-nav a:hover,
 .exhibit-page-nav a:active,
 .exhibit-page-nav .current a {
-  background: #0d749c;
+  background: #bfbfbf;
 }
 
 .exhibit-pagination .next a {
@@ -1728,7 +1733,7 @@ h1, h2, h3
 }
 a:link, a:visited
 {
-	color: #009acc;
+	color: #2d2c2c;
 	text-decoration: none;
 }
 a:hover
@@ -1804,7 +1809,7 @@ h2
 }
 #content
 {
-	padding: 50px 0;
+	padding: 25px 75px;
 }
 #featured-item
 {
@@ -1839,7 +1844,7 @@ h2
 }
 footer
 {
-	background: #1b1a1a;
+	background: #9E9E9E;
 	height: 100px;
 	margin-top: 0;
 	width: 100%;
@@ -1979,7 +1984,7 @@ h2
 }
 #content:before
 {
-	background: #1b1a1a;
+	background: #e8e4e4;
 	content: ' ';
 	height: 5px;
 	left: -2000px;
