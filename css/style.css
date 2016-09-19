@@ -17,11 +17,11 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 
 body {
-  font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px "Times New Roman", bold;
   line-height: 18px;
   color: #333;
   background-color: #bbbbbb;
-  background-image: url("http://liblamp.uwm.edu/omeka/B/files/original/874565e1f06f22c28ef6bbb1a1d1234f.jpg");
+  background-image: url("http://liblamp.uwm.edu/omeka/B/files/original/a17a2f22a60d8ecea9dab82f1a038396.jpg");
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 200px;
