@@ -20,7 +20,12 @@ body {
   font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 18px;
   color: #333;
-  background: #90a6cc;
+  background-color: #bbbbbb;
+  background-image: url("http://liblamp.uwm.edu/omeka/B/files/original/874565e1f06f22c28ef6bbb1a1d1234f.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 200px;
+  background-attachment: fixed;
 }
 
 form, fieldset {
@@ -518,7 +523,7 @@ header:after {
 #content {
   overflow: hidden;
   border: 1px solid #ccc;
-  background: #d3e1f9;
+  background: rgba(220, 220, 220, 0.71);
   position: relative;
   margin: 0 auto;
   padding: 0;
@@ -1492,7 +1497,7 @@ footer nav + p {
 }
 .exhibit-page-nav a:link, .exhibit-page-nav a:visited {
   padding: 0.75em 10px;
-  background: rgb(211, 225, 249);
+  background: rgba(230, 230, 230, 0);
   text-decoration: none;
 }
 
@@ -1508,7 +1513,7 @@ footer nav + p {
 .exhibit-page-nav a:hover,
 .exhibit-page-nav a:active,
 .exhibit-page-nav .current a {
-  background: #90a6cc;
+  background: #bfbfbf;
 }
 
 .exhibit-pagination .next a {
@@ -1728,7 +1733,7 @@ h1, h2, h3
 }
 a:link, a:visited
 {
-	color: #3257e4;
+	color: #2d2c2c;
 	text-decoration: none;
 }
 a:hover
@@ -1804,7 +1809,7 @@ h2
 }
 #content
 {
-	padding: 50px 0;
+	padding: 25px 75px;
 }
 #featured-item
 {
@@ -1839,7 +1844,7 @@ h2
 }
 footer
 {
-	background: rgba(15, 49, 99, 0.84);
+	background: #9E9E9E;
 	height: 100px;
 	margin-top: 0;
 	width: 100%;
@@ -1979,7 +1984,7 @@ h2
 }
 #content:before
 {
-	background: #3277db;
+	background: #e8e4e4;
 	content: ' ';
 	height: 5px;
 	left: -2000px;
